@@ -18,7 +18,7 @@ This study compares **TensorFlow deep learning** and **XGBoost machine learning*
 * SRTM DEM (30m)
 * Slope derived from DEM
 * CHIRPS rainfall data
-These datasets were processed using Google Earth Engine (GEE) and exported as GeoTIFF files for analysis.
+*These datasets were processed using Google Earth Engine (GEE) and exported as GeoTIFF files for analysis.
 
 ---
 

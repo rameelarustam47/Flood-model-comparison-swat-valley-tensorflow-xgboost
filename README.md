@@ -74,3 +74,7 @@ TensorFlow is more suitable for maximum accuracy, while XGBoost is better for in
 * Google Earth Engine
 * Scikit-learn
 * Google Colab
+* ## 🔗 Related Project
+
+TensorFlow-based Flood Prediction (Swat Valley):
+https://github.com/rameelarustam47/flood-prediction-swat-valley-tensorflow
